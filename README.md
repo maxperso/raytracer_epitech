@@ -56,6 +56,9 @@ make
 ```
 
 ## Scenes
+<img width="1390" alt="Capture d’écran 2023-05-17 à 16 16 14" src="https://github.com/maxperso/raytracer_epitech/assets/91894666/48f45dc9-3143-4025-bcb5-8b301aa41daa">
+<img width="1390" alt="Capture d’écran 2023-05-17 à 16 15 51" src="https://github.com/maxperso/raytracer_epitech/assets/91894666/66b2bd63-21b4-4964-86aa-ff556c243cb1">
+<img width="1394" alt="Capture d’écran 2023-05-17 à 16 16 42" src="https://github.com/maxperso/raytracer_epitech/assets/91894666/da0bb188-7a0a-44ca-8b0d-c5d185df2625">
 
 ## Credit
 ### made with
