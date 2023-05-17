@@ -1,7 +1,7 @@
 # RayTracer EPITECH 2023
 **Second year project at Epitech.**
 
-*Name: Raytracer*
+*Name: Raytracer* | 
 *Language: C++*
 
 ## Description
