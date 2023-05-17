@@ -1,14 +1,16 @@
 # RayTracer EPITECH 2023
 **Second year project at Epitech.**
 
-### Name: Raytracer
-### Language: C++
+*Name: Raytracer*
+*Language: C++*
 
 ## Description
 
 Raytracer is a feature-rich program that implements ray tracing, a technique used to generate realistic digital images by simulating the inverse path of light. The program can generate images from a file that describes the scene configuration. It supports various primitives, transformations, lights, materials, and scene setup options to create visually appealing and detailed renderings.
 
-## Mandatory features
+## Features
+
+_Mandatory:_
 
 * Primitives: Supports spheres and planes.
 * Transformations: Includes translation.
@@ -17,13 +19,13 @@ Raytracer is a feature-rich program that implements ray tracing, a technique use
 * Scene Configuration: Allows adding primitives to the scene, setting up lighting, and configuring the camera.
 * Interface: No graphical user interface (GUI), outputs images in PPM file format.
 
-## Additional Features (Should)
+_Should:_
 
 * Primitives: Supports cylinders and cones.
 * Transformations: Includes rotation.
 * Light: Enables drop shadows.
 
-## Additional Features (Could)
+_Could:_
 
 * Primitives: Supports limited cylinders, limited cones, torus, tangle cube, triangles, and loading OBJ files.
 * Fractals: Provides options for fractal shapes such as Möbius strip.
